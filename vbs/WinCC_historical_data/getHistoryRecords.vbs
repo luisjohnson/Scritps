@@ -143,7 +143,7 @@ records = GetData(textStream)
 filteredData = FilterData(records, lDate, uDate)
 
 For i = 0 to Ubound(filteredData, 2)
-	Wscript.echo filteredData(0, i) & "  " & filteredData(1, i)
+	Wscript.echo filteredData(0, i) & "  " & filteredData(1, i) & "  " & filteredData(2, i)
 Next
 
 textStream.close

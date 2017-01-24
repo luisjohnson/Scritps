@@ -22,5 +22,3 @@ limits disered time range. Both dates need to be specified in the following form
 `"MM/DD/YYYY H:M:S"`
 
 
-
-
