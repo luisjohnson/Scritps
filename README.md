@@ -21,4 +21,6 @@ limits disered time range. Both dates need to be specified in the following form
 
 `"MM/DD/YYYY H:M:S"`
 
+![alt tag](https://github.com/luisjohnson/Scritps/blob/master/vbs/WinCC_historical_data/screenshots/ScreenShot_Script.png)
+
 
